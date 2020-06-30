@@ -13,3 +13,5 @@ As Tyrion Lannister said:
 
 >A day will come when you think yourself safe and happy, and suddenly your joy will turn to ashes in your mouth, and you'll know the debt is paid.
 
+
+<img src="http://awoiaf.westeros.org/images/thumb/a/a4/Tyrion_lannister_by_teiiku.jpg/250px-Tyrion_lannister_by_teiiku.jpg"/>
