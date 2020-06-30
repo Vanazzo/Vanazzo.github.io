@@ -7,3 +7,9 @@ Tyrion Lannister ist ein Mitglied des Haueses Lannister. Er ist der Bruder von C
 * liebt es Spaß zu haben
 * ärgert gerne seine Schwester
 * hat Probleme mit seinem Vater
+
+
+As Tyrion Lannister said:
+
+>A day will come when you think yourself safe and happy, and suddenly your joy will turn to ashes in your mouth, and you'll know the debt is paid.
+
